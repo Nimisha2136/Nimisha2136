@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Worked on data analysis projects involving customer behavior and predictive modeling<br>🌱 Learning advanced machine learning techniques and GenAI applications<br>💼 Former Data Analyst Intern at VOIS (Vodafone Intelligent Solutions)<br>📊 Interested in data analytics, visualization, and machine learning<br>🎯 Expected graduation: July 2027
+🔭 Worked on data analysis projects involving customer behavior and predictive modeling<br>🌱 Learning advanced machine learning techniques and GenAI applications<br>📊 Interested in data analytics, visualization, and machine learning<br>🎯 Expected graduation: July 2027
 
 
 ## 🌐 Socials:
